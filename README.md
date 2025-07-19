@@ -2,4 +2,4 @@
 
 
 ## List of gods/goddesses:
-[Lady Athena](https://analtartothegods.github.io/Athena).
+1. Lady[Athena](https://analtartothegods.github.io/Athena).
