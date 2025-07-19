@@ -6,7 +6,7 @@
           display: flex;
           width: 100%;
           height: 300px;
-          background-color:  ;
+          background-color:  #ffe54c;
           color: black;
         }
       </style>
@@ -16,7 +16,7 @@
       </div>
     </div>
   </foreignObject>
-</svg>#
+</svg>
 
 
 ## List of gods/goddesses:
